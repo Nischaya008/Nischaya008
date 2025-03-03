@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischaya008&label=Profile%20views&color=0e75b6&style=flat" alt="nischaya008" /> </p>
 
-- 🔭 I’m currently working on **Weatherify**
+- 🔭 I’m currently working on **Resume_Coach (Name TBD)**
 
-- 🌱 I’m currently learning **AI&ML, MERN and CTF's**
+- 🌱 I’m currently learning **AI&ML, MERN, CI/CD, System Design & Scalability and CTF's**
 
 - 👯 I’m looking to collaborate on [AlgoVisNG](https://algovisng.pages.dev/)
 
-- 💬 Ask me about **React, C++, JavaScript and Tech**
+- 💬 Ask me about **MERN, Flask+FastAPI, AI & ML and general tech**
 
 - 📫 How to reach me **nischayagarg008@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/ciCbE](https://shorturl.at/ciCbE)
+- 📄 Know about my experiences [https://shorturl.at/ciCbE](https://drive.google.com/file/d/1kAd_X1uX1wAKJL-9-F84bths-c8aE_jw/view?usp=sharing)
 
 - ⚡ Fun fact **When I’m not coding, you’ll find me mastering the strings on my guitar or exploring new game worlds...**
 
