@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischaya008&label=Profile%20views&color=0e75b6&style=flat" alt="nischaya008" /> </p>
 
-- 🔭 I’m currently working on **Resume_Coach (Name TBD)**
+- 🔭 I’m currently working on **ResumifyNG**
 
-- 🌱 I’m currently learning **AI&ML, MERN, CI/CD, System Design & Scalability and CTF's**
+- 🌱 I’m currently learning **AI&ML, MERN, CI/CD, System Design & Scalability**
 
 - 👯 I’m looking to collaborate on [AlgoVisNG](https://algovisng.pages.dev/)
 
