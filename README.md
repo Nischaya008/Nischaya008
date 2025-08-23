@@ -41,7 +41,7 @@
 
 **📧 Reach me:** nischayagarg008@gmail.com
 
-**📄 Know about my experiences:** [My Résumé](https://drive.google.com/file/d/1kAd_X1uX1wAKJL-9-F84bths-c8aE_jw/view?usp=sharing)
+**📄 Know about my experiences:** [My Résumé](https://drive.google.com/file/d/14T5RM4zJTll87iqdFRO0PFOZlCRTQjYC/view?usp=sharing)
 
 **🎸 Fun fact:** When I'm not coding, you'll find me mastering the strings on my guitar or exploring new game worlds...
 
